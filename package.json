@@ -1,0 +1,29 @@
+{
+  "name": "react-native-input-mask",
+  "version": "1.0.0",
+  "description": "A simple input mask component for React-Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimdegtyarev/react-native-input-mask.git"
+  },
+  "keywords": [
+    "input-mask",
+    "react",
+    "native",
+    "masked",
+    "input",
+    "masked-input",
+    "input",
+    "mask"
+  ],
+  "author": "Maksim Degtyarev <brokkoli08@gmail.com> (http://maksimdegtyarev.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maksimdegtyarev/react-native-input-mask/issues"
+  },
+  "homepage": "https://github.com/maksimdegtyarev/react-native-input-mask#readme"
+}
